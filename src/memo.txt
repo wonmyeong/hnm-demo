@@ -1,0 +1,20 @@
+페이지
+
+1.전체 페이지
+2.상품페이지
+3.로그인 페이지
+
+
+세부 기능
+
+db.json
+검색 기능
+사이즈 토글링
+로그인/로그아웃 토글링 => private ...사용해서 만들기
+Routes/Route
+
+ 참고 사이트
+react bootstrap
+react fontawesome
+nelify
+react router dom
